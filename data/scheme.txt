@@ -1,0 +1,8 @@
+Пример таблицы пользователя:
+RGRGGGRRYGW
+
+Где:
+R - red
+G - green
+Y - yellow
+W - whte
